@@ -1,0 +1,46 @@
+.navbar ul{
+    flex-direction: row;
+    margin: 15px 0px;
+}
+.navbar ul li{
+    font-size: 0.65rem;
+}
+.navbar ul li a{
+
+    padding: 10px 15px;
+   
+}
+
+
+.headings{
+    font-size: 1.7rem;
+}
+
+#pic img{
+    width: 200px;
+    height: 250px;
+}
+
+#intro h2{
+    font-size:1.5rem;
+}
+.gallery img{
+    width:250px;
+    height: 150px;
+    margin: 10px;
+  }
+
+  .input{
+    width:80%;
+}
+#msg{
+    width:70%;
+}
+#send{
+    width:20%;
+}
+
+.about-container{
+    flex-wrap: wrap;
+     
+}
